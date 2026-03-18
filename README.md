@@ -2,6 +2,12 @@ Selección de skills y agents para proyectos PADMA.
 
 # Installation
 
+Installation wizard:
+```
+npx skills add dwaynemac/padma-agents
+```
+
+## Additional options
 List available skills:
 ```
 npx skills add dwaynemac/padma-agents --list
