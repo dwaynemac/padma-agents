@@ -1,0 +1,5 @@
+interface:
+  display_name: "DeROSE Brand Design"
+  short_description: "Design UIs in the DeROSE brand"
+  default_prompt: "Use $derose-brand to design this UI so it matches the DeROSE visual system and tone."
+  brand_color: "#040e85"
