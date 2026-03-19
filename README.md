@@ -14,6 +14,10 @@ npx skills add dwaynemac/padma-agents
 npx skills update dwaynemac/padma-agents
 ```
 
+# Other useful skills
+These skills are installable by ```npx skills add```:
+- [railwayapp/railway-skills](https://github.com/railwayapp/railway-skills) - Railway.com CLI skills
+
 # Repository structure
 - [skills/](./skills) - contains all skills
 - [agents/](./agents) - contains all agents
