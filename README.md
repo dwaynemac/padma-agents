@@ -17,3 +17,4 @@ npx skills update dwaynemac/padma-agents
 - [skills/](./skills) - contains all skills
 - [agents/](./agents) - contains all agents
 - [prompts/](./prompts) - contains all prompts
+- [jetbrains-rules/](./jetbrains-rules) - contains JetBrains rules for AI Assistant
