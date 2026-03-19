@@ -1,17 +1,18 @@
 Selección de skills y agents para proyectos PADMA.
 
-# Installation
+# SKILLS
+
+## Installation
 
 ``` 
 npx skills add dwaynemac/padma-agents
 ```
 
-# Updating
+## Updating
 
 ``` 
 npx skills update dwaynemac/padma-agents
 ```
-
 
 # Repository structure
 - [skills/](./skills) - contains all skills
