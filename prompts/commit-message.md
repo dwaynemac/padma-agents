@@ -6,7 +6,6 @@
 - Separate subject from body with a blank line (if body is needed)
 
 ## Feature prefix
-- Add a [%{feature_name}] prefix to the subject line where %{feature_name} is the name of the feature being worked on.
 - If current branch is not master, add current branch name as a prefix of title between brackets instead of feature_name example: [ $GIT_BRANCH_NAME ]
 
 # Body Guidelines
