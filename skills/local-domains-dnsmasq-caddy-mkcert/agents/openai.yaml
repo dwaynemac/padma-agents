@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Domains Setup"
+  short_description: "Set up local HTTPS dev domains."
+  default_prompt: "Use -domains-dnsmasq-caddy-mkcert to set up local HTTPS development domains with dnsmasq, caddy, and mkcert on this machine."
