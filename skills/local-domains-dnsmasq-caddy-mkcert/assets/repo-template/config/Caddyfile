@@ -1,0 +1,10 @@
+{
+	auto_https off
+	admin off
+}
+
+(local_tls) {
+	tls __CERT_FILE__ __KEY_FILE__
+}
+
+__SITE_BLOCKS__
