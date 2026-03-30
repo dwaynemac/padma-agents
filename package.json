@@ -1,0 +1,20 @@
+{
+  "name": "jetbrains-rules",
+  "version": "0.1.0",
+  "description": "Install JetBrains AI Assistant rules from GitHub repositories into .aiassistant/rules",
+  "type": "module",
+  "bin": {
+    "jetbrains-rules": "./bin/cli.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md"
+  ],
+  "dependencies": {
+    "tar": "^7.4.3"
+  }
+}
